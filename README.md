@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Ben Xu</h1>
 <h3 align="center">Previously a mechanical engineer now turned to software, I have a developed a passion for coding. I love being challenged and being able to utilize my problem solving skills to squash one bug at a time.</h3>
-<img align = "right" alt = "coding" width = "500" src = "https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align = "right" alt = "coding" width = "350" src = "https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steamybun&label=Profile%20views&color=0e75b6&style=flat" alt="steamybun" /> </p>
 
