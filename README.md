@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben Xu</h1>
-<h3 align="center">👋 Hi there! I'm Ben, a passionate DevOps and Cloud Engineer with expertise in Docker, Kubernetes, Ansible, Git, Jenkins, Python, AWS, and GitHub Actions. My mission is to optimize workflows and enhance efficiency through innovative cloud solutions. I thrive on automating processes and orchestrating deployments for seamless operations.</h3>
+<h3 align="left">👋 Hi there! I'm Ben, a passionate DevOps and Cloud Engineer with expertise in Docker, Kubernetes, Ansible, Git, Jenkins, Python, AWS, and GitHub Actions. My mission is to optimize workflows and enhance efficiency through innovative cloud solutions. I thrive on automating processes and orchestrating deployments for seamless operations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-xu-8&label=Profile%20views&color=0e75b6&style=flat" alt="ben-xu-8" /> </p>
+<img align = "right" alt = "coding" width = "350" src = "https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+
 
 - 🔭 I’m currently working on **Developing a CI/CD Pipeline for Cloud Monitoring App**
 
