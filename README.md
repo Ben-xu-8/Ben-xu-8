@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">A passionate fullstack developer with expertise in React, Java, and Python.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ben-xu-8&label=Profile%20views&color=0e75b6&style=flat" alt="ben-xu-8" /> </p>
+
+<img align = "right" alt = "coding" width = "350" src = "https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 - 🔭 I’m currently working on **Developing my skills in Dev Ops**
 
